@@ -1,0 +1,131 @@
+*{
+    margin:auto;
+    padding:0px;
+}
+body{
+    background-color:rgb(239, 239, 239);
+}
+.top{
+    height: 800px;
+    border: 2px solid black;
+    background-image: url("https://img.freepik.com/free-vector/abstract-watercolor-background_23-2148995288.jpg?w=2000");
+}
+.main{
+    
+  width:1050px;
+  height:auto;
+  border: px solid black;
+  
+  
+}
+img{
+    border-radius: 25%;
+}
+.main a{
+    color:rgb(0, 76, 255)
+}
+.left{
+    width:300px;
+    height:700px;
+    border:0px solid gray;
+    float:left;
+
+}
+.left1{
+    width:270px;
+    height:270px;
+    border:1px solid gray;
+    background-color: white;
+    float:left;
+    margin-top:30px;
+    margin-left:30px;
+    margin-right:10px;
+    border-radius: 20px;
+   
+}
+.left1:hover{
+    background-color: rgb(145, 255, 255);
+    text-decoration: black;
+    font-weight: bold;
+    border: 3px solid black;
+    background-image: url("");
+}
+.left2{
+    width:270px;
+    height:200px;
+    border:1px solid gray;
+    background-color: white;
+    float:left;
+    margin-top:20px;
+    margin-left:30px;
+    margin-right:10px;
+    border-radius: 20px;
+}
+.left2:hover{
+    background-color: rgb(145, 255, 255);
+    text-decoration: black;
+    font-weight: bold;
+    border: 3px solid black;
+}
+.right{
+    width:650px;
+    height:900px;
+    border:0px solid gray;
+    float:left;
+  
+    margin-right:50px;
+    margin-left:20px;
+}
+.right1:hover{
+    background-color: rgb(145, 255, 255);
+    text-decoration: black;
+    font-weight: bold;
+    border: 3px solid black;
+}
+.right1{
+    width:650px;
+    height:200px;
+    border:1px solid gray;
+    background-color:white;
+    float:right;
+    margin-top:30px;
+    border-radius: 20px;
+    
+   
+}
+.right2{
+
+    width:310px;
+    height:250px;
+    border:1px solid gray;
+    background-color:white;
+    float:right;
+    margin-top:20px;
+   margin-left:9px;
+   border-radius: 20px;
+}
+.right2:hover{
+    background-color: rgb(145, 255, 255);
+    text-decoration: black;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.right3{
+
+    width:310px;
+    height:250px;
+    border:1px solid gray;
+    background-color:white;
+    float:right;
+    margin-top:20px;
+    margin-left:6px;
+    border-radius: 20px;
+    margin-right:10px;
+}
+.right3:hover{
+    background-color: rgb(145, 255, 255);
+    text-decoration: black;
+    font-weight: bold;
+    border: 1px solid black;
+}
